@@ -57,3 +57,4 @@ pytest
 ## Para Estudiantes
 
 Lee las instrucciones completas en [EXAMEN.md](EXAMEN.md)
+Trigger CI
